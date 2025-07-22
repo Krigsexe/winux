@@ -19,7 +19,7 @@ Enjoy **5 years of free security & maintenance updates**, and extend support up 
 - 🛡 **Advanced Active Directory (AD) GPO** – Available in PowerTools Pro  
 - 🔐 **Experimental TPM-backed Full Disk & ZFS Encryption**
 
-> 💡 Discover more in our [Release Notes](#)
+> 💡 Discover more in our [Release Notes](https://winuxos.com)
 
 ---
 
@@ -45,9 +45,6 @@ Winux is optimized for **low to high-end machines** – no special requirements.
 
 💿 ISO Image – ready to boot on real hardware or virtual machines.
 
-📘 [Installation Guide](#) – Coming soon  
-🧠 [Community Forum](#) – Coming soon
-
 ---
 
 ## 💡 Why Choose Winux?
@@ -67,8 +64,6 @@ Winux is open to contributors! Whether you want to:
 - Report bugs
 - Suggest features
 - Help with documentation
-
-Start by checking out our [CONTRIBUTING.md](#) 🚀
 
 ---
 
